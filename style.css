@@ -1,0 +1,17 @@
+.btn {
+    display :flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+button {
+    background-color: rgb(162, 238, 213);
+    color: black;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
+
+
